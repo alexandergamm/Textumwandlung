@@ -8,6 +8,7 @@ import java.util.regex.Pattern;
 
 import de.hfu.residents.domain.Resident;
 import de.hfu.residents.repository.ResidentRepository;
+import de.hfu.residents.repository.ResidentService;
 
 /**
  * @author Stefan Betermieux

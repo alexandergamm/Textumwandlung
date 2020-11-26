@@ -1,8 +1,9 @@
-package de.hfu.residents.service;
+package de.hfu.residents.repository;
 
 import java.util.List;
 
 import de.hfu.residents.domain.Resident;
+import de.hfu.residents.service.ResidentServiceException;
 
 /**
  * @author Stefan Betermieux

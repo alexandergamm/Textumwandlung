@@ -7,6 +7,8 @@ import de.hfu.residents.domain.Resident;
 /**
  * @author Stefan Betermieux
  */
+ 
+ //Fehler behoben
 public interface ResidentService {
 
   Resident getUniqueResident(Resident filterResident) throws ResidentServiceException;
